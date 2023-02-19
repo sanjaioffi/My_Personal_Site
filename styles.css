@@ -1,1 +1,17 @@
-/* css */
+body {
+    background-color: #EAF6F6;
+}
+hr {
+   
+    border: none;
+    border-top: 7px dotted;
+    border-color: grey;
+  
+    width: 10%;
+}
+h1 {
+    color: #66BFBF;
+}
+h3 {
+    color: #66BFBF;
+}
